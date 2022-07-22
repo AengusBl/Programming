@@ -10,4 +10,4 @@ else:
   if abs(answer-new_try) > abs(answer-user_input):
     print("Getting colder!")
   else:
-    print("Getting warmer!")
+    print("Getting warmer!!")
